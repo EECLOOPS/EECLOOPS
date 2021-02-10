@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+### Im now studying web development with *WebForce 3*. I've start to learn **HTML / CSS** and **JAVASCRIPT**.
+
+Please found my **[portefolio](lien)** for more informations ![photo]
+
 
 <!--
 **EECLOOPS/EECLOOPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
